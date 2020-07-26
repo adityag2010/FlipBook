@@ -1,0 +1,15 @@
+{
+  "name": "flipbook",
+  "version": "1.0.0",
+  "description": "FlipBook Social Network",
+  "main": "driver.js",
+  "scripts": {
+    "start": "node driver.js"
+  },
+  "author": "Aditya Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "uuid": "^7.0.3"
+  }
+}
